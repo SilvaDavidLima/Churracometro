@@ -1,2 +1,2 @@
-# projeto-site
- Projeto de um site criado durante o curso de Git e GitHub.
+# Churrascômetro
+ Projeto:Criar um site para calcular a média de carne, linguiça, bebidas, bebidas alcólicas por pessoa.
